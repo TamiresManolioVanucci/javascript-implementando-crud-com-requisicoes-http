@@ -1,3 +1,5 @@
+Aprendemos a comunicar com servidores utilizando JSON-Server e Fetch, implementando requisições GET, POST, PUT e DELETE. Configuramos a interface para exibir e atualizar dados dinamicamente, manipulamos eventos de formulário e exclusão, e utilizamos o Axios para simplificar requisições HTTP.
+
 ![Thumbnail](./thumb.png)
 
 # Memoteca
